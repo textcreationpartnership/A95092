@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the confession and execution of the prisoners at Kingstone-upon-Thames, on Wednesday the 16th of this instant March, 1681 viz. Margaret Osgood burnt for killing her husband, Mary Trot for several fellonies, William Abbot, Abel Hamersly, Thomas Savioury [brace] for robing on the high-way, Edward Turner, William Wyer, John Bradsham, Richard Wilson [brace] for fellony and burglary ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95092</idno>
+            <idno type="STC">Wing T2780A</idno>
+            <idno type="STC">ESTC R226319</idno>
+            <idno type="EEBO-CITATION">42475252</idno>
+            <idno type="OCLC">ocm 42475252</idno>
+            <idno type="VID">151409</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151409)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the confession and execution of the prisoners at Kingstone-upon-Thames, on Wednesday the 16th of this instant March, 1681 viz. Margaret Osgood burnt for killing her husband, Mary Trot for several fellonies, William Abbot, Abel Hamersly, Thomas Savioury [brace] for robing on the high-way, Edward Turner, William Wyer, John Bradsham, Richard Wilson [brace] for fellony and burglary ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:151409:1" rendition="simple:additions"/>
+            <head>THE TRUE NARRATIVE OF THE CONFESSION AND EXECUTION Of the PRISONERS at <hi>Kingſtone-upon-Thames.</hi> ON <hi>Wedneſday</hi> the 16th of this Inſtant <hi>March,</hi> 1681.
+<list>
+                  <head>VIZ.</head>
+                  <item>
+                     <hi>Margaret Oſgood</hi> Burnt for killing her Husband.</item>
+                  <item>
+                     <hi>Mary Trot</hi> for ſeveral Fellonies.</item>
+                  <item>For Robing on the High-way.
+<list>
+                        <item>
+                           <hi>William Abbot.</hi>
+                        </item>
+                        <item>
+                           <hi>Abel Hamerſly.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Savioury.</hi>
+                        </item>
+                     </list>
+                  </item>
+                  <item>For Fellony and Burglary.
+<list>
+                        <item>
+                           <hi>Edward Turner.</hi>
+                        </item>
+                        <item>
+                           <hi>William Wyer.</hi>
+                        </item>
+                        <item>
+                           <hi>John Bradſhaw.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Wilſon.</hi>
+                        </item>
+                     </list>
+                  </item>
+               </list>
+            </head>
+            <argument>
+               <p>Being a ſatisfactory Account of all their Crimes for which they ſuffered, the reſt being moſt graciouſly Reprieved WITH An Account of their Deportment in Priſon, at the Place of Execution, with ſeveral other remarkable Circumſtances. But more particular of the Confeſſion and Burning of <hi>Margaret Oſgood,</hi> of the Pariſh of <hi>St. Olives Southwark,</hi> for the horrid Murther of her Husband, on the 21th of <hi>July</hi> laſt.</p>
+            </argument>
+            <p>AMongſt the many and grievous Temptations which the power of Darkneſs lays as Snares to deceive Souls, and bring them under his ſubjection; thoſe jealouſies and diſcontents are the proneſt to work our downfals, for they often turn to diſpair, whereby we make away our ſelves, and
+<pb n="2" facs="tcp:151409:2"/>ſo inevitably periſh or to deſperate revenge by which we deſtroy others the effects of the latter has been amply proved in this Tragical Exploit with which we ſhall Uſher in this Scean of Death one <hi>Margaret Oſgood,</hi> Wife to <hi>Walter Oſgood,</hi> late of the Pariſh of St. <hi>Olives Southwark,</hi> Hat-maker formerly Wife to one <hi>Thomas Cook,</hi> with home this latter Husband was Apprentice whom ſhe Marrying before he was out of his Time; he being Young, and ſhe ſtricken in Years immediately diſcord was ſo ſoon between them by the inſtigation of the Devil which grew to ſuch a height that notwithſtanding the Mediation and Perſwaſion of ſeveral Neigh<g ref="char:EOLhyphen"/>bours, they lived as it were in continual brawling for ſeldom a day or night paſſed but they had a falling out, which induced him to ſpend laviſhly to; keep Horſes and Spannels; ſo that in a ſhort time almoſt all that her former Husband had left her (which was conſiderable) was waſted, which cauſed her for very grief as ſhe has ſince confeſſed, to attempt often to make away with her ſelf, but had not power; yet, though the Devil could not bring her to deſtruction <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one way he effected it by an other as prodigeous as the former might have been if Acted; which is as followeth, her Husband coming home ſomwhat late on the 21th of <hi>July</hi> laſt, and much in Drink, after ſome conteſt ſhe got him to Bed, who preſently fell aſleep, not dreaming that his Thred of Life was ſo near Spun, when ſhe approaching the Bedſide with a Hatchet (as it is thought her heart being Armed with cruelty) and ſtruck him on the Forehead, ſuch a forciable blow as entered his Skull half an Inch; with that not being ſatisfied ſhe gave him two mor<g ref="char:EOLhyphen"/>tal wounds, beſides one which ſlit his Noſe, and another under the Ears about an Inch deep, nay ſo far was ſhe tranſported with revenge and Helliſh rage that whilſt he extended his dying Hands for mercy ſhe ſlit one of them to the Wriſt, and as if all this had not been ſufficient to give him his Paſport in to the other World, ſhe with a Whip-Cord ſtrangled him whilſt he lay weltring in his Blood; and then ſitting by the Corps good part of the Night, when Day appeared ſhe was Apprehended to the <hi>Marſhalſea</hi>-Priſon where ſhe remained very careleſs and negligent of her futer ſtate, till ſhe was carryed in a Wagon among the other Priſoners to <hi>Kingſtone-upon-Thames,</hi> to be tried at the Aſſizes holden there for the County of <hi>Surry,</hi> which began on <hi>Monday</hi> the 8th of this inſtant <hi>March;</hi> and end<g ref="char:EOLhyphen"/>ed on <hi>Thurſday</hi> 11th; where upon her Trial being asked what ſhe could ſay for her ſelf, ſhe aledged ſhe was not <hi>(Compes Mentis)</hi> but <hi>Diſtracted</hi> when ſhe com<g ref="char:EOLhyphen"/>mited the horrid Fact; but Mr. <hi>Fowler</hi> and ſeveral others who ſaw her the Morn<g ref="char:EOLhyphen"/>ing after the Fact was commited; depoſed upon Oath that ſhe was as at other times and they ſaw no Diſtraction in her w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereupon not being able to make any farther Defence the Jury after having received their charge, brought her in guilty of Treaſon and Murther, the which in caſe of a Wifes Murthering her Husband, the Law implyes, after which ſhe received the dreadful Sentence to be Burnt alive, and was conveyed to the Town Priſon there to remain in order to her Execution, where during the intervene of the time allowed to make preparation for another World ſhe ſeemed as it were ſtupified with the horror of guilt; ſometimes ſhe would applauſe her cruelty, ſaying, She did not repent her of what ſhe had done, for he had brought her to want by his Extravagancies; and at other times ſhe would fall out into a paſſion, and ſay, it was Gods juſt Judgement by ſuffering her to run into ſuch evil to puniſh her for being ſo wicked to her firſt Husband whoſe Bed ſhe had ſuffered the latter to defile whilſt the former was alive; and that ſhe had been a grieveous Offender both againſt God and Man; not only the Miniſter of the Place, but ſeveral other pious and charitable Chriſtians came often to viſit her and give her Saving advice to prepare for Immortality, intimating that ſhe had but a ſhort time to live on Earth, and that Murther bore ſuch a laſting Stain, that nothing but the blood of her Sacred Redeemer could cleanſe her poluted Soul, to which ſhe anſwered ſhe was ſorry for the Murther; but were her Husband now alive ſhe would rather be Burnt according to ſentance than to live with him, and ſo continued ſometimes reſolute, and ſometimes Penitent till the Day appointed for her
+<pb n="3" facs="tcp:151409:2" rendition="simple:additions"/>Execution came, which was the 16th of this Inſtant <hi>March;</hi> when being brought out of the Priſon, clad almoſt all in White to the Market Place, or Place appointed for Exe<g ref="char:EOLhyphen"/>cution, were being faſtened to a Stake, Three Loads of Fa<g ref="char:EOLhyphen"/>gots were piled that ſhe ſeemed as one half dead; all that ſhe was heard to ſay, was to deſire the People to pray for her, and to take warning by her ſad End; after her being there near half an hour, the Executioner ſet Fire to the Pile, which taking reduced the miſerable Wretch. It is ſaid during her Impriſonment ſhe did what ſhe could to be got with Child, thereby to reſpit her Execution, but her expectation failed her, for ſhe proved not pregnant.</p>
+            <p>Eight more that received Sentence were Executed at the Gallows, being Hanged by their Necks, whoſe Names, Crimes and Behaviours were as followeth.</p>
+            <p>
+               <hi>Mary Trot</hi> a Notorious Offender, who had been in ſe<g ref="char:EOLhyphen"/>veral Roberys, and been once before Condemned for the ſame; having likewiſe been a Publick Seller of ſtolen goods, was taken from the Priſon and carried to the place of Exe<g ref="char:EOLhyphen"/>cution; ſhe ſeem'd very obſtinate, and not in the leaſt con<g ref="char:EOLhyphen"/>cern'd for her latter End, till the very laſt when Death's approach made her relent to think how ſhe was entring on a ſtate ſhe was ſo ill prepared for.</p>
+            <p>
+               <hi>William Abbot</hi> was likewiſe Sentenced for that he Robed <hi>Dover</hi> Carryer in the middle of <hi>Kent-ſtreet,</hi> between Four and Five of the Clock in the Morning of Silks and other Goods to the vallue of 200 Pounds; he had been tryed at the <hi>Old-Bayly</hi> the laſt Seſſions, and Condemned there, where he had obtained a Pardon for the particular Fact, for which he was there Condemned, but no other, ſo the Car<g ref="char:EOLhyphen"/>ryer appearing at the <hi>Old Bayly</hi> the Court Ordered him to Confeſs where the goods were, which he refuſing he was Ordered to be ſent to <hi>King ſtone</hi> to be Tried there, and being Caſt, this Day ſuffered; his Penitence was ſuitable in ſome meaſures to his many Crimes, fer he was more then ordinary Penitent much bewailing his Crimes and deſiring all to take warning by his ſad downfall.</p>
+            <pb n="4" facs="tcp:151409:3" rendition="simple:additions"/>
+            <p>
+               <hi>William Wyer</hi> and <hi>John Bradſhaw</hi> were condemned for breaking open the Houſe of one <hi>William Turner</hi> in <hi>September</hi> laſt, and ſtealing thence Cloath to a conſiderable vallue for which they were this day Executed and dyed with great pe<g ref="char:EOLhyphen"/>nitency deſiring the company aſſembled to view their fatal Ends, to direct their Prayers to Almighty God for their de<g ref="char:EOLhyphen"/>liverence from a ſecond Death.</p>
+            <p>
+               <hi>Able Hamerſly</hi> and <hi>Thomas Savioury</hi> ſuffered for the ſame Fact as <hi>Abbot</hi> did, and were exceeding Penitent, it being thought it was the firſt Robery they ever committed.</p>
+            <p>
+               <hi>Richard Wilſon</hi> was Comdemned for that he in <hi>February</hi> laſt, broak open the Houſe of one Mr. <hi>Turner</hi> in <hi>Southwark,</hi> and accordingly to Sentance was Executed.</p>
+            <p>The laſt in this fatal Tragedy, was <hi>Edward Turner</hi> for breaking the Houſe of <hi>Thomas Stainton</hi> in <hi>Barmondſey</hi>-ſtreet, and ſteealing Linnen and wearing Apparel to the value of Five pounds, they were both very Penitent, as indeed they were for the moſt part heartily lamenting their woful condi<g ref="char:EOLhyphen"/>tions, and beging Pardon of God for their offences, after a ſhort Prayer, they ended their lives.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>D. Mallet.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
